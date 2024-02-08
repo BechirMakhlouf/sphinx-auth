@@ -5,6 +5,15 @@
     "node": true
   },
   "extends": ["standard-with-typescript", "prettier"],
+  "overrides": [
+    {
+      "files": ["tests/**/*"],
+      "plugins": ["jest"],
+      "env": {
+        "jest/globals": true
+      }
+    }
+  ],
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
