@@ -1,3 +1,1 @@
-export function testoi(): void {
-  console.log("sphinx lib");
-}
+// import { Password } from "./password";
