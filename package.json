@@ -34,5 +34,8 @@
     "auth helper"
   ],
   "author": "Bechir Makhlouf",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "hash-wasm": "^4.11.0"
+  }
 }
