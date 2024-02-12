@@ -1,6 +1,6 @@
 {
   "name": "@bechir-makhlouf/sphinx-auth",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "the runtime agnostic, zero-dependancy, non-opinionated auth helper",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
